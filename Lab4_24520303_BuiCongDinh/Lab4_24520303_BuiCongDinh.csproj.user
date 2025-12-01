@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bai1\Bai1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai2\Bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai3\Bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai3\WebSources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai4\Bai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai5\Bai5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai6\Bai6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai7\AddFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai7\Bai7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai7\FoodCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Bai7\RandomFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai7\SigninForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai7\SignupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
